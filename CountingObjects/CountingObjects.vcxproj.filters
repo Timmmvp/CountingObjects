@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Aruco.cpp">
+    <ClCompile Include="arucostream.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
