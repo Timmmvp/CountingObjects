@@ -19,3 +19,4 @@ int main()
 	cvDestroyWindow("Streaming");
 	return 0;
 }
+// even een kleine test imn te kijken of alles werkt........
