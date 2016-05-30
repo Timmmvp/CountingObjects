@@ -20,7 +20,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArucoDetectBoard.cpp" />
+    <ClCompile Include="ArucoTest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
