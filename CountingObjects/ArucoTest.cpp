@@ -117,7 +117,7 @@ int main(int argc, char **argv) {
 			return -1;
 		}
 		bool isVideoFile = false;
-		if (TheInputVideo.find(".avi") != std::string::npos || TheInputVideo.find("live") != string::npos)
+		if (TheInputVideo.find(".mp4") != std::string::npos || TheInputVideo.find("live") != string::npos)
 			isVideoFile = true;
 		// read first image to get the dimensions
 		TheVideoCapturer >> TheInputImage;
